@@ -1,6 +1,6 @@
 # Instructions
 In this project we are going to bring everything together in a complete ML pipeline that
-produces a trained Decision Tree model about Heart Failure Prediction.
+produces a trained Decision KNN and Tree model about Heart Failure Prediction.
 
 ## Data Informations
 * [Heart Failure Prediction - Kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data); 

@@ -1,6 +1,11 @@
 # Instructions
-In this exercise we are going to bring everything together in a complete ML pipeline that
-produces a trained Decision Tree model.
+In this project we are going to bring everything together in a complete ML pipeline that
+produces a trained Decision Tree model about Heart Failure Prediction.
+
+## Data Informations
+* [Heart Failure Prediction - Kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data); 
+
+Heart Failure Prediction: Analysis and modeling. There are some factors that affects Death Event. This dataset contains person's information like age ,sex , blood pressure, smoke, diabetes,ejection fraction, creatinine phosphokinase, serum_creatinine, serum_sodium, time and we have to predict their DEATH EVENT.
 
 ## Execution Steps
 
@@ -28,3 +33,12 @@ A few notes and instructions:
   ```bash
   mlflow run . -P hydra_options="main.execute_steps='download,preprocess'"
   ```
+### Used tools
+*   [Google Colab](https://colab.research.google.com/);
+*   [Spyder IDE](https://www.spyder-ide.org/);
+*   [Jupyter](https://jupyter.org/);
+*   [Anaconda - 3](https://www.anaconda.com/products/individual).
+
+### Authors
+*   [Kathleen Noemi](https://github.com/kathleenrego)
+*   [Pedro Henrique](https://github.com/pedrohfonseca)

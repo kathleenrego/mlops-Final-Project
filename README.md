@@ -34,10 +34,12 @@ A few notes and instructions:
   mlflow run . -P hydra_options="main.execute_steps='download,preprocess'"
   ```
 ### Used tools
-*   [Google Colab](https://colab.research.google.com/);
-*   [Spyder IDE](https://www.spyder-ide.org/);
+*   [Visual Studio Code](https://code.visualstudio.com/);
 *   [Jupyter](https://jupyter.org/);
-*   [Anaconda - 3](https://www.anaconda.com/products/individual).
+*   [Anaconda - 3](https://www.anaconda.com/products/individual);
+*   [Wandb](https://wandb.ai);
+*   [MLflow](https://mlflow.org/);
+*   [Hydra](https://hydra.cc/docs/intro/)
 
 ### Authors
 *   [Kathleen Noemi](https://github.com/kathleenrego)

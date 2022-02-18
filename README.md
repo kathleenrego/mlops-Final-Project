@@ -36,10 +36,11 @@ A few notes and instructions:
 ### Used tools
 *   [Visual Studio Code](https://code.visualstudio.com/);
 *   [Jupyter](https://jupyter.org/);
+*   [Google Colab](https://colab.research.google.com/)
 *   [Anaconda - 3](https://www.anaconda.com/products/individual);
 *   [Wandb](https://wandb.ai);
 *   [MLflow](https://mlflow.org/);
-*   [Hydra](https://hydra.cc/docs/intro/)
+*   [Hydra](https://hydra.cc/docs/intro/).
 
 ### Authors
 *   [Kathleen Noemi](https://github.com/kathleenrego)

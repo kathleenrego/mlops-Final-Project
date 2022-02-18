@@ -1,6 +1,5 @@
 # Instructions
-In this project we are going to bring everything together in a complete ML pipeline that
-produces a trained Decision Tree model about Heart Failure Prediction.
+In this article we are going to bring a complete ML pipeline that produces a trained Decision Tree model about Heart Failure Prediction, using a set of tools that allow a better management of the data flow (MLFlow, Hydra, anaconda and Wandb).
 
 ## Data Informations
 * [Heart Failure Prediction - Kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data); 
@@ -19,9 +18,9 @@ A few notes and instructions:
   ``raw_data`` for the artifact containing the downloaded data, ``preprocessed_data`` for the
   artifact containing the data after the preprocessing, and so on.
   
-* For testing, set the ``project_name`` to ``week_09_example_01``. Once you are done
+* For testing, set the ``project_name`` to ``mlops-final-project``. Once you are done
   developing, do a production run by changing the ``project_name`` to 
-  ``high_income_classification_prod``. This way the visualization of the pipeline will not contain all your trials and errors. Remember to tag the produced model export as ``prod`` (we are going to use it in the next exercise)
+  ``heart_failure_classification_prod``. This way the visualization of the pipeline will not contain all your trials and errors. Remember to tag the produced model export as ``prod`` (we are going to use it in the next exercise)
   
 * When developing, you can override the parameter ``main.execute_steps`` to only execute one or
   more steps of the pipeline, instead of the entire pipeline. This is useful for debugging. 

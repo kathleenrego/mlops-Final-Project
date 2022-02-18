@@ -1,6 +1,6 @@
 # Instructions
 In this project we are going to bring everything together in a complete ML pipeline that
-produces a trained Decision KNN and Tree model about Heart Failure Prediction.
+produces a trained Decision Tree model about Heart Failure Prediction.
 
 ## Data Informations
 * [Heart Failure Prediction - Kaggle](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data); 
@@ -36,7 +36,7 @@ A few notes and instructions:
 ### Used tools
 *   [Visual Studio Code](https://code.visualstudio.com/);
 *   [Jupyter](https://jupyter.org/);
-*   [Google Colab](https://colab.research.google.com/)
+*   [Google Colab](https://colab.research.google.com/);
 *   [Anaconda - 3](https://www.anaconda.com/products/individual);
 *   [Wandb](https://wandb.ai);
 *   [MLflow](https://mlflow.org/);
